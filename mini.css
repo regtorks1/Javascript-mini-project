@@ -1,0 +1,47 @@
+body {
+    background-color:rgb(160, 131, 131);
+}
+
+form{
+    text-align: center;
+    margin-top: 100px;
+    
+}
+
+p {
+    text-align: center;
+}
+ #form1 {
+    height: 30px;
+    width: 400px;
+    box-shadow: 2px 2px 2px;
+    padding-left: 10px;
+}
+
+#click {
+    box-shadow: 2px 2px 2px;
+    height: 35px;
+}
+
+#form2 {
+    height: 30px;
+    width: 400px;
+    box-shadow: 2px 2px 2px;   
+}
+#click1 {
+    box-shadow: 2px 2px 2px;
+    height: 35px;
+}
+
+#form3 {
+    height: 30px;
+    width: 400px;
+    box-shadow: 2px 2px 2px;
+}
+
+button {
+    box-shadow: 2px 2px 2px;
+    height: 35px;
+}
+
+
